@@ -4,7 +4,7 @@ Works With:
 This code is written for a Teensy 4.1 and Arduino IDE.
 
 Functionality:
-There are 23 buttons in the code that either send a MIDI note directly, or assign a CC value to the encoder outout. It is intended to be used with MIDI2LR by "rsjaffe" to csend commands to Lightroom, speeding up your workflow. Here is a list of the functions I assigned, but feel free to modify the code as needed.
+There are 23 buttons in the code that either send a MIDI note directly, or assign a CC value to the encoder output. It is intended to be used with MIDI2LR by "rsjaffe" to csend commands to Lightroom, speeding up your workflow. Here is a list of the functions I assigned, but feel free to modify the code as needed.
 
 Button/Pin    Mode 1 MIDI	    Mode 1 Function		Mode 2 MIDI	    Mode 2 Function
 1		          Note 32	        Next Photo		    Note 32	        Next Photo
